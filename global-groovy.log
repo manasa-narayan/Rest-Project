@@ -1,0 +1,227 @@
+2020-06-10 13:00:39,545 INFO  [log] Script Execution Starts
+2020-06-10 13:00:39,582 INFO  [log] Script Execution Starts
+2020-06-10 13:00:41,609 INFO  [log] {"success":1,"error":[],"data":{"access_token":"8b2bab33e3f0b13e50a44f5855df2a61f6bc4d8b","expires_in":86400,"token_type":"Bearer"}}
+2020-06-10 13:00:41,663 INFO  [log] holder value = [data:[access_token:8b2bab33e3f0b13e50a44f5855df2a61f6bc4d8b, expires_in:86400, token_type:Bearer], error:[], success:1]
+2020-06-10 13:00:41,679 INFO  [log] 8b2bab33e3f0b13e50a44f5855df2a61f6bc4d8b
+2020-06-10 13:00:41,757 INFO  [log] 8b2bab33e3f0b13e50a44f5855df2a61f6bc4d8b
+2020-06-10 13:00:42,570 INFO  [log] /SoapUIResults
+2020-06-10 13:00:45,331 INFO  [log] The total number of rows which contains data are2
+2020-06-10 13:00:45,344 INFO  [log] The total number of columns which contains data are2
+2020-06-10 13:00:45,444 INFO  [log] Script Execution Starts
+2020-06-10 13:00:46,160 INFO  [log] 354
+2020-06-10 13:00:50,495 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,498 INFO  [log] Update Successfully
+2020-06-10 13:00:50,512 INFO  [log] Update Successfully
+2020-06-10 13:00:50,514 INFO  [log] Update Successfully
+2020-06-10 13:00:50,518 INFO  [log] Update Successfully
+2020-06-10 13:00:50,532 INFO  [log] Update Successfully
+2020-06-10 13:00:50,536 INFO  [log] Update Successfully
+2020-06-10 13:00:50,537 INFO  [log] Update Successfully
+2020-06-10 13:00:50,538 INFO  [log] Update Successfully
+2020-06-10 13:00:50,548 INFO  [log] Update Successfully
+2020-06-10 13:00:50,551 INFO  [log] Update Successfully
+2020-06-10 13:00:50,555 INFO  [log] Update Successfully
+2020-06-10 13:00:50,556 INFO  [log] Update Successfully
+2020-06-10 13:00:50,558 INFO  [log] Update Successfully
+2020-06-10 13:00:50,560 INFO  [log] Update Successfully
+2020-06-10 13:00:50,569 INFO  [log] Update Successfully
+2020-06-10 13:00:50,575 INFO  [log] Update Successfully
+2020-06-10 13:00:50,595 INFO  [log] Update Successfully
+2020-06-10 13:00:50,597 INFO  [log] Update Successfully
+2020-06-10 13:00:50,600 INFO  [log] Update Successfully
+2020-06-10 13:00:50,614 INFO  [log] Update Successfully
+2020-06-10 13:00:50,616 INFO  [log] Update Successfully
+2020-06-10 13:00:50,621 INFO  [log] Update Successfully
+2020-06-10 13:00:50,632 INFO  [log] Update Successfully
+2020-06-10 13:00:50,638 INFO  [log] Update Successfully
+2020-06-10 13:00:50,639 INFO  [log] Update Successfully
+2020-06-10 13:00:50,640 INFO  [log] Update Successfully
+2020-06-10 13:00:50,642 INFO  [log] Update Successfully
+2020-06-10 13:00:50,643 INFO  [log] Update Successfully
+2020-06-10 13:00:50,653 INFO  [log] Update Successfully
+2020-06-10 13:00:50,655 INFO  [log] Update Successfully
+2020-06-10 13:00:50,656 INFO  [log] Update Successfully
+2020-06-10 13:00:50,660 INFO  [log] Update Successfully
+2020-06-10 13:00:50,663 INFO  [log] Update Successfully
+2020-06-10 13:00:50,664 INFO  [log] Update Successfully
+2020-06-10 13:00:50,674 INFO  [log] Update Successfully
+2020-06-10 13:00:50,675 INFO  [log] Update Successfully
+2020-06-10 13:00:50,679 INFO  [log] Update Successfully
+2020-06-10 13:00:50,681 INFO  [log] Update Successfully
+2020-06-10 13:00:50,694 INFO  [log] Update Successfully
+2020-06-10 13:00:50,698 INFO  [log] Update Successfully
+2020-06-10 13:00:50,703 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,705 INFO  [log] Update Successfully
+2020-06-10 13:00:50,715 INFO  [log] Update Successfully
+2020-06-10 13:00:50,723 INFO  [log] Update Successfully
+2020-06-10 13:00:50,724 INFO  [log] Update Successfully
+2020-06-10 13:00:50,738 INFO  [log] Update Successfully
+2020-06-10 13:00:50,740 INFO  [log] Update Successfully
+2020-06-10 13:00:50,741 INFO  [log] Update Successfully
+2020-06-10 13:00:50,742 INFO  [log] Update Successfully
+2020-06-10 13:00:50,743 INFO  [log] Update Successfully
+2020-06-10 13:00:50,744 INFO  [log] Update Successfully
+2020-06-10 13:00:50,745 INFO  [log] Update Successfully
+2020-06-10 13:00:50,760 INFO  [log] Update Successfully
+2020-06-10 13:00:50,762 INFO  [log] Update Successfully
+2020-06-10 13:00:50,763 INFO  [log] Update Successfully
+2020-06-10 13:00:50,766 INFO  [log] Update Successfully
+2020-06-10 13:00:50,766 INFO  [log] Update Successfully
+2020-06-10 13:00:50,767 INFO  [log] Update Successfully
+2020-06-10 13:00:50,768 INFO  [log] Update Successfully
+2020-06-10 13:00:50,770 INFO  [log] Update Successfully
+2020-06-10 13:00:50,778 INFO  [log] Update Successfully
+2020-06-10 13:00:50,779 INFO  [log] Update Successfully
+2020-06-10 13:00:50,782 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,783 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,783 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,784 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,785 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,786 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,787 INFO  [log] Update Successfully
+2020-06-10 13:00:50,793 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,797 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,799 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,802 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,803 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,806 INFO  [log] Update Successfully
+2020-06-10 13:00:50,807 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,808 INFO  [log] Update Successfully
+2020-06-10 13:00:50,808 INFO  [log] Update Successfully
+2020-06-10 13:00:50,809 INFO  [log] Update Successfully
+2020-06-10 13:00:50,824 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,846 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,849 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,852 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,863 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,868 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,869 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,871 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,885 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,886 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,888 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,889 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,890 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,890 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,891 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,892 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,903 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,907 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,909 INFO  [log] Update unsuccessful
+2020-06-10 13:00:50,910 INFO  [log] Update unsuccessful
+2020-06-10 13:00:55,499 INFO  [log] 1
+2020-06-10 13:00:55,499 INFO  [log] Product successfully Deleted
+2020-06-10 13:00:55,537 INFO  [log] /SoapUIResults
+2020-06-10 13:00:55,660 INFO  [log] Status:  FINISHED, time taken for testCase is: 6292 ms
+2020-06-10 13:00:55,683 INFO  [log] number of test steps executed are: 8
+2020-06-10 13:00:55,721 INFO  [log] /SoapUIResults
+2020-06-10 13:00:55,788 INFO  [log] Script Execution Starts
+2020-06-10 13:00:56,263 INFO  [log] 355
+2020-06-10 13:00:58,696 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,697 INFO  [log] Update Successfully
+2020-06-10 13:00:58,698 INFO  [log] Update Successfully
+2020-06-10 13:00:58,701 INFO  [log] Update Successfully
+2020-06-10 13:00:58,702 INFO  [log] Update Successfully
+2020-06-10 13:00:58,703 INFO  [log] Update Successfully
+2020-06-10 13:00:58,704 INFO  [log] Update Successfully
+2020-06-10 13:00:58,705 INFO  [log] Update Successfully
+2020-06-10 13:00:58,711 INFO  [log] Update Successfully
+2020-06-10 13:00:58,713 INFO  [log] Update Successfully
+2020-06-10 13:00:58,714 INFO  [log] Update Successfully
+2020-06-10 13:00:58,714 INFO  [log] Update Successfully
+2020-06-10 13:00:58,717 INFO  [log] Update Successfully
+2020-06-10 13:00:58,720 INFO  [log] Update Successfully
+2020-06-10 13:00:58,725 INFO  [log] Update Successfully
+2020-06-10 13:00:58,728 INFO  [log] Update Successfully
+2020-06-10 13:00:58,729 INFO  [log] Update Successfully
+2020-06-10 13:00:58,730 INFO  [log] Update Successfully
+2020-06-10 13:00:58,731 INFO  [log] Update Successfully
+2020-06-10 13:00:58,733 INFO  [log] Update Successfully
+2020-06-10 13:00:58,736 INFO  [log] Update Successfully
+2020-06-10 13:00:58,740 INFO  [log] Update Successfully
+2020-06-10 13:00:58,742 INFO  [log] Update Successfully
+2020-06-10 13:00:58,743 INFO  [log] Update Successfully
+2020-06-10 13:00:58,744 INFO  [log] Update Successfully
+2020-06-10 13:00:58,747 INFO  [log] Update Successfully
+2020-06-10 13:00:58,751 INFO  [log] Update Successfully
+2020-06-10 13:00:58,752 INFO  [log] Update Successfully
+2020-06-10 13:00:58,753 INFO  [log] Update Successfully
+2020-06-10 13:00:58,755 INFO  [log] Update Successfully
+2020-06-10 13:00:58,758 INFO  [log] Update Successfully
+2020-06-10 13:00:58,760 INFO  [log] Update Successfully
+2020-06-10 13:00:58,762 INFO  [log] Update Successfully
+2020-06-10 13:00:58,763 INFO  [log] Update Successfully
+2020-06-10 13:00:58,763 INFO  [log] Update Successfully
+2020-06-10 13:00:58,765 INFO  [log] Update Successfully
+2020-06-10 13:00:58,766 INFO  [log] Update Successfully
+2020-06-10 13:00:58,772 INFO  [log] Update Successfully
+2020-06-10 13:00:58,773 INFO  [log] Update Successfully
+2020-06-10 13:00:58,774 INFO  [log] Update Successfully
+2020-06-10 13:00:58,775 INFO  [log] Update Successfully
+2020-06-10 13:00:58,776 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,777 INFO  [log] Update Successfully
+2020-06-10 13:00:58,779 INFO  [log] Update Successfully
+2020-06-10 13:00:58,784 INFO  [log] Update Successfully
+2020-06-10 13:00:58,787 INFO  [log] Update Successfully
+2020-06-10 13:00:58,788 INFO  [log] Update Successfully
+2020-06-10 13:00:58,789 INFO  [log] Update Successfully
+2020-06-10 13:00:58,791 INFO  [log] Update Successfully
+2020-06-10 13:00:58,795 INFO  [log] Update Successfully
+2020-06-10 13:00:58,795 INFO  [log] Update Successfully
+2020-06-10 13:00:58,798 INFO  [log] Update Successfully
+2020-06-10 13:00:58,808 INFO  [log] Update Successfully
+2020-06-10 13:00:58,823 INFO  [log] Update Successfully
+2020-06-10 13:00:58,837 INFO  [log] Update Successfully
+2020-06-10 13:00:58,847 INFO  [log] Update Successfully
+2020-06-10 13:00:58,862 INFO  [log] Update Successfully
+2020-06-10 13:00:58,872 INFO  [log] Update Successfully
+2020-06-10 13:00:58,882 INFO  [log] Update Successfully
+2020-06-10 13:00:58,898 INFO  [log] Update Successfully
+2020-06-10 13:00:58,908 INFO  [log] Update Successfully
+2020-06-10 13:00:58,927 INFO  [log] Update Successfully
+2020-06-10 13:00:58,934 INFO  [log] Update Successfully
+2020-06-10 13:00:58,943 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,949 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,952 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,957 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,958 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,960 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,966 INFO  [log] Update Successfully
+2020-06-10 13:00:58,971 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,972 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,974 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,976 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,982 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,986 INFO  [log] Update Successfully
+2020-06-10 13:00:58,986 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,988 INFO  [log] Update Successfully
+2020-06-10 13:00:58,989 INFO  [log] Update Successfully
+2020-06-10 13:00:58,990 INFO  [log] Update Successfully
+2020-06-10 13:00:58,991 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,994 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,995 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,996 INFO  [log] Update unsuccessful
+2020-06-10 13:00:58,999 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,000 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,000 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,002 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,002 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,003 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,004 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,005 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,006 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,011 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,013 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,014 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,015 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,015 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,016 INFO  [log] Update unsuccessful
+2020-06-10 13:00:59,016 INFO  [log] Update unsuccessful
+2020-06-10 13:01:04,257 INFO  [log] 1
+2020-06-10 13:01:04,276 INFO  [log] Product successfully Deleted
+2020-06-10 13:01:04,297 INFO  [log] /SoapUIResults
+2020-06-10 13:01:04,837 INFO  [log] Script Execution Starts
+2020-06-10 13:01:08,965 INFO  [log] {"success":1,"error":[],"data":{"id":362}}
+2020-06-10 13:01:08,968 INFO  [log] holder value = [data:[id:362], error:[], success:1]
+2020-06-10 13:01:08,969 INFO  [log] 362
+2020-06-10 13:01:09,819 INFO  [log] /SoapUIResults
